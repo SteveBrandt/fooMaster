@@ -1,0 +1,6 @@
+[submodule "barMaster"]
+	path = barMaster
+	url = git@github.com:SteveBrandt/barMaster.git
+[submodule "bazMaster"]
+	path = bazMaster
+	url = git@github.com:SteveBrandt/bazMaster.git
